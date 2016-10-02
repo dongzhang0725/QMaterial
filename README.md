@@ -1,7 +1,7 @@
 #QMaterial
 ##Material Design By PyQt
 
-###[Python3.4.4 or Python3.5][PyQt4 or PyQt5 or PySide]
+###[Python3.4.4 or Python3.5][PyQt5]
 
 #ScreenShot
 
